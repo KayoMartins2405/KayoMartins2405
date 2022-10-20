@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFD700&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#DDA0DD&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDA0DD&size=35&center=true&vCenter=true&width=1000&lines=Oiii!+Me+Chamo+Kayo+Lacerda+Martins+Lima;Tenho+16+Anos;Moro+em+São+Paulo,+Brasil;Estudande+da+ETEC;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
@@ -48,4 +48,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFD700&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#DDA0DD&height=120&section=footer"/>
