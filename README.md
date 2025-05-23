@@ -19,8 +19,9 @@
 
 ### Educação:
 
-- Cursando Desenvolvimento de Sistemas.
-- Cursando 2ºAno do Ensino Médio.
+- Etec Desenvolvimento de Sistemas completo.
+- Ensino Médio completo.
+- Cursando faculdade de Análise e Desenvolvimento de Sistemas.
 
 ### Contato
 
