@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#DDA0DD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDA0DD&size=35&center=true&vCenter=true&width=1000&lines=Oiii!+Me+Chamo+Kayo+Lacerda+Martins+Lima;Tenho+16+Anos;Moro+em+São+Paulo,+Brasil;Estudande+da+ETEC;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDA0DD&size=35&center=true&vCenter=true&width=1000&lines=Oiii!+Me+Chamo+Kayo+Lacerda+Martins+Lima;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KayoMartins2405&show_icons=true&count_private=true&hide_border=true&title_color=DDA0DD&icon_color=DDA0DD&text_color=c9d1d9&bg_color=0d1117" alt="Kayo Martins github stats" /> 
